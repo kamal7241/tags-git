@@ -7,6 +7,7 @@
     "type": "git",
     "url":"https://github.com/kamal7241/tags-git/tags"
   },
+  "homepage": "https://github.com/kamal7241/tags-git/tags",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
